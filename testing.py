@@ -1,3 +1,4 @@
 print('Hello world')
 
-asdf
+name = input('You? ')
+
