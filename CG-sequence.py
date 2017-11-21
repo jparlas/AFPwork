@@ -5,11 +5,14 @@
 print('This programm will display the GC content of a DNA sequence ')
 
 mySequence = input('Enter your DNA sequence ')
+converted = mySequence.upper()
+
+print(converted)
 #count the number of C in sequence
-numC = mySequence.count('C')
+numC = converted.count('C')
 
 #count the number of G
-numG = mySequence.count('G')
+numG = converted.count('G')
 
 #find the total number of bases.
 total = len(mySequence)
