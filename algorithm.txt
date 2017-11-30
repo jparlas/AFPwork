@@ -1,0 +1,10 @@
+Begin
+Open the input file for reading
+Open the output file for writing
+For each line in the input file
+    Find the position of the last character
+    Get the sequence from 15th to last character
+    Write sequence to output file
+    Output sequence to screen
+Close the input file
+Close the output file

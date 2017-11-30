@@ -1,0 +1,3 @@
+john is 22 years old
+gary is a boy
+sue is a girl
